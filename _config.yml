@@ -57,7 +57,7 @@ topics:
 
   - name: Ionic
     web_url: https://github.com/topics/ionic
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ionic/ionic.png
+    image_url: https://github.com/ionic-team/ionic-framework/blob/main/.github/assets/logo.png
 
   - name: NodeJS
     web_url: https://github.com/topics/nodejs
